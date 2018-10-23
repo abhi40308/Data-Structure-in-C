@@ -27,3 +27,5 @@
 * [Avl Tree](https://github.com/amit2rockon/Data-Structure-in-C/blob/master/tree/avl.c)
 * [Red black](https://github.com/amit2rockon/Data-Structure-in-C/blob/master/tree/redblacktree.c)
 
+## Watch working of data structure 
+<https://www.cs.usfca.edu/~galles/visualization/Algorithms.html><br  />
